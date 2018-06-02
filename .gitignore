@@ -1,0 +1,14 @@
+# Dependency directory
+node_modules
+yarn.lock
+
+# Source maps
+*.js.map
+
+# Files marked with gitigx
+*gitigx*
+.sass-cache
+
+# ETC
+.gitcommit-template
+.structor
